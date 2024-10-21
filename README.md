@@ -1,1 +1,2 @@
 # HW2A
+[![CircleCI](https://dl.circleci.com/status-badge/img/circleci/ARum2jd7JWjZpyE5cv8THm/WUJVRzoE8hWenAxyDjohNo/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/circleci/ARum2jd7JWjZpyE5cv8THm/WUJVRzoE8hWenAxyDjohNo/tree/main)
